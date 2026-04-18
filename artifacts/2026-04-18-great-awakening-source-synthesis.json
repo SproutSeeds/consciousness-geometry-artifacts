@@ -1,0 +1,30 @@
+{
+  "schema_version": "0.1.0",
+  "kind": "source_synthesis",
+  "date": "2026-04-18",
+  "status": "source_synthesis_not_claim_validation",
+  "source": {
+    "url": "https://www.youtube.com/watch?v=GYbb3faWokA",
+    "title": "The Great Awakening of Human Consciousness",
+    "channel": "Spirit Science"
+  },
+  "core_synthesis": "The source presents consciousness as a fundamental feature of reality and uses connection as its central organizing theme across person, Earth, cosmos, energy, awareness, spiritual traditions, symbolic geometry, and personal transformation.",
+  "boundary": "This artifact summarizes and maps public source material. It does not validate the source claims.",
+  "candidate_templates": [
+    {
+      "id": "radial_evidence_field",
+      "use": "Separate testable practice claims from speculative cosmological claims."
+    },
+    {
+      "id": "spiral_development_overlay",
+      "use": "Represent the source's developmental sequence from crisis through inward attention and expanded identity."
+    },
+    {
+      "id": "torus_exchange_model",
+      "use": "Represent inward and outward flow in the source-energy framing."
+    }
+  ],
+  "first_failure_condition": "If the geometry cannot keep symbolic, experiential, empirical, and speculative claims separate, the template fails.",
+  "next_question": "Can a radial-plus-spiral dynamic map classify the source's claims more clearly than a flat outline?"
+}
+

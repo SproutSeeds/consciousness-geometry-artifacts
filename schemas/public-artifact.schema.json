@@ -1,0 +1,53 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Consciousness Geometry Public Artifact",
+  "type": "object",
+  "required": [
+    "schema_version",
+    "kind",
+    "date",
+    "status",
+    "source",
+    "core_synthesis",
+    "boundary"
+  ],
+  "properties": {
+    "schema_version": {
+      "type": "string"
+    },
+    "kind": {
+      "type": "string"
+    },
+    "date": {
+      "type": "string"
+    },
+    "status": {
+      "type": "string"
+    },
+    "source": {
+      "type": "object",
+      "additionalProperties": true
+    },
+    "core_synthesis": {
+      "type": "string"
+    },
+    "boundary": {
+      "type": "string"
+    },
+    "candidate_templates": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": true
+      }
+    },
+    "first_failure_condition": {
+      "type": "string"
+    },
+    "next_question": {
+      "type": "string"
+    }
+  },
+  "additionalProperties": true
+}
+
