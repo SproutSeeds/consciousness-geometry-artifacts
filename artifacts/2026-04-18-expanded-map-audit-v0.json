@@ -1,0 +1,52 @@
+{
+  "schema_version": "0.1.0",
+  "kind": "expanded_map_audit_summary",
+  "date": "2026-04-18",
+  "status": "public_safe_map_audit_summary_not_claim_validation",
+  "source": {
+    "url": "https://www.youtube.com/watch?v=GYbb3faWokA",
+    "title": "The Great Awakening of Human Consciousness",
+    "channel": "Spirit Science"
+  },
+  "boundary": "This artifact summarizes a geometry-mapping audit of paraphrased source findings. It does not validate the source claims.",
+  "template_id": "radial_spiral_hybrid_v0",
+  "result": "pass",
+  "finding_count": 26,
+  "mapping_count": 26,
+  "coverage": 1.0,
+  "boundary_preservation_score": 1.0,
+  "domain_count": 25,
+  "violations": 0,
+  "evidence_status_counts": {
+    "analytical_classification": 1,
+    "design_constraint": 1,
+    "mixed_plausibility": 4,
+    "source_reports": 11,
+    "speculative_unvalidated": 9
+  },
+  "radius_summary_by_evidence_status": {
+    "design_constraint": {
+      "mean_radius": 0.16,
+      "count": 1
+    },
+    "analytical_classification": {
+      "mean_radius": 0.22,
+      "count": 1
+    },
+    "mixed_plausibility": {
+      "mean_radius": 0.325,
+      "count": 4
+    },
+    "source_reports": {
+      "mean_radius": 0.534,
+      "count": 11
+    },
+    "speculative_unvalidated": {
+      "mean_radius": 0.886,
+      "count": 9
+    }
+  },
+  "interpretation": "The hybrid structure preserved the intended evidence boundary: speculative claims remained outward and tense, while practice, analytical, and design constraints stayed closer to the center.",
+  "next_test": "Apply the same template to a contrasting conventional neuroscience or meditation source and compare map deformation."
+}
+

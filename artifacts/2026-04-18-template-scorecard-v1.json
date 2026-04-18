@@ -1,0 +1,54 @@
+{
+  "schema_version": "0.1.0",
+  "kind": "template_scorecard_summary",
+  "date": "2026-04-18",
+  "status": "model_fit_score_summary_not_claim_validation",
+  "source": {
+    "url": "https://www.youtube.com/watch?v=GYbb3faWokA",
+    "title": "The Great Awakening of Human Consciousness",
+    "channel": "Spirit Science"
+  },
+  "boundary": "This artifact summarizes an updated geometry-template comparison after the expanded finding audit. It does not validate the source claims.",
+  "pressure_test": {
+    "expanded_finding_count": 26,
+    "hybrid_map_coverage": 1.0,
+    "hybrid_boundary_preservation_score": 1.0,
+    "hybrid_audit_result": "pass",
+    "speculative_findings": 9,
+    "speculative_mean_radius": 0.886
+  },
+  "winner": "radial_spiral_hybrid_v0",
+  "ranked_templates": [
+    {
+      "rank": 1,
+      "id": "radial_spiral_hybrid_v0",
+      "average_score": 4.317,
+      "strongest_metric": "discrimination",
+      "weakest_metric": "prediction"
+    },
+    {
+      "rank": 2,
+      "id": "radial_evidence_field",
+      "average_score": 4.05,
+      "strongest_metric": "discrimination",
+      "weakest_metric": "prediction"
+    },
+    {
+      "rank": 3,
+      "id": "spiral_development_overlay",
+      "average_score": 3.083,
+      "strongest_metric": "generativity",
+      "weakest_metric": "discrimination"
+    },
+    {
+      "rank": 4,
+      "id": "torus_exchange_model",
+      "average_score": 2.533,
+      "strongest_metric": "generativity",
+      "weakest_metric": "prediction"
+    }
+  ],
+  "weakest_metric": "prediction",
+  "next_test": "Test the leading hybrid against a contrasting conventional neuroscience or meditation source and compare map deformation."
+}
+
