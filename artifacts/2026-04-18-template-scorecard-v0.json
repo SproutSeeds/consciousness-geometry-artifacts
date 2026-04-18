@@ -1,0 +1,46 @@
+{
+  "schema_version": "0.1.0",
+  "kind": "template_scorecard_summary",
+  "date": "2026-04-18",
+  "status": "model_fit_score_summary_not_claim_validation",
+  "source": {
+    "url": "https://www.youtube.com/watch?v=GYbb3faWokA",
+    "title": "The Great Awakening of Human Consciousness",
+    "channel": "Spirit Science"
+  },
+  "boundary": "This artifact summarizes a first-pass geometry-template comparison. It does not validate the source claims.",
+  "winner": "radial_spiral_hybrid_v0",
+  "ranked_templates": [
+    {
+      "rank": 1,
+      "id": "radial_spiral_hybrid_v0",
+      "average_score": 4.083,
+      "strongest_metric": "discrimination",
+      "weakest_metric": "prediction"
+    },
+    {
+      "rank": 2,
+      "id": "radial_evidence_field",
+      "average_score": 3.917,
+      "strongest_metric": "discrimination",
+      "weakest_metric": "prediction"
+    },
+    {
+      "rank": 3,
+      "id": "spiral_development_overlay",
+      "average_score": 3.083,
+      "strongest_metric": "generativity",
+      "weakest_metric": "discrimination"
+    },
+    {
+      "rank": 4,
+      "id": "torus_exchange_model",
+      "average_score": 2.417,
+      "strongest_metric": "generativity",
+      "weakest_metric": "prediction"
+    }
+  ],
+  "failure_condition": "The hybrid fails if it can accept any claim without meaningful movement, rejection, or tension.",
+  "next_test": "Run the same template against a contrasting source, ideally a conventional neuroscience or meditation source, and compare how the map deforms."
+}
+
