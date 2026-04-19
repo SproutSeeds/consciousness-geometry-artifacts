@@ -20,3 +20,12 @@
   - Updated score summary after expanded-map audit.
 - `artifacts/2026-04-18-template-scorecard-v1.json`
   - Machine-readable companion score summary.
+
+## 2026-04-19
+
+- `artifacts/2026-04-19-experiment-002-mindfulness-neuroscience-audit-v0.md`
+  - Public-safe audit summary for the conventional mindfulness neuroscience contrast source.
+- `artifacts/2026-04-19-experiment-002-template-scorecard-v0.md`
+  - Source-specific template scorecard for Experiment 002.
+- `artifacts/2026-04-19-cross-experiment-map-deformation-v0.md`
+  - Public-safe comparison of Experiment 001 and Experiment 002 map deformation.

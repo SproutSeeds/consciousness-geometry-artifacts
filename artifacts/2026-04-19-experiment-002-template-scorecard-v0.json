@@ -1,0 +1,46 @@
+{
+  "schema_version": "0.1.0",
+  "kind": "experiment_002_template_scorecard_summary",
+  "date": "2026-04-19",
+  "status": "model_fit_score_summary_not_claim_validation",
+  "source": {
+    "title": "The neuroscience of mindfulness meditation",
+    "nature_url": "https://www.nature.com/articles/nrn3916",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/25783612/",
+    "doi": "10.1038/nrn3916"
+  },
+  "winner": "radial_evidence_field",
+  "ranked_templates": [
+    {
+      "rank": 1,
+      "id": "radial_evidence_field",
+      "average_score": 4.317,
+      "strongest_metric": "discrimination",
+      "weakest_metric": "prediction"
+    },
+    {
+      "rank": 2,
+      "id": "radial_spiral_hybrid_v0",
+      "average_score": 4.05,
+      "strongest_metric": "discrimination",
+      "weakest_metric": "prediction"
+    },
+    {
+      "rank": 3,
+      "id": "spiral_development_overlay",
+      "average_score": 2.633,
+      "strongest_metric": "generativity",
+      "weakest_metric": "discrimination"
+    },
+    {
+      "rank": 4,
+      "id": "torus_exchange_model",
+      "average_score": 2.367,
+      "strongest_metric": "generativity",
+      "weakest_metric": "discrimination"
+    }
+  ],
+  "interpretation": "The conventional neuroscience review needs evidence-status discipline more than developmental symbolic motion. The hybrid remains useful as a common comparison format, but the simpler radial evidence field is cleaner here.",
+  "next_test": "Compare deformation across a third source with intervention-level data."
+}
+

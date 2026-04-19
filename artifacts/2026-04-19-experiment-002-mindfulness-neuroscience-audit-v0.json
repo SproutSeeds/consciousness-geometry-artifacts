@@ -1,0 +1,64 @@
+{
+  "schema_version": "0.1.0",
+  "kind": "experiment_002_map_audit_summary",
+  "date": "2026-04-19",
+  "status": "public_safe_map_audit_summary_not_claim_validation",
+  "source": {
+    "title": "The neuroscience of mindfulness meditation",
+    "authors": [
+      "Yi-Yuan Tang",
+      "Britta K. Hölzel",
+      "Michael I. Posner"
+    ],
+    "nature_url": "https://www.nature.com/articles/nrn3916",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/25783612/",
+    "doi": "10.1038/nrn3916",
+    "pmid": "25783612"
+  },
+  "boundary": "This artifact summarizes a geometry-mapping audit of paraphrased source findings from public metadata, abstract, and key-point surfaces. It does not validate the source claims.",
+  "template_id": "radial_spiral_hybrid_v0",
+  "result": "pass",
+  "finding_count": 16,
+  "mapping_count": 16,
+  "coverage": 1.0,
+  "boundary_preservation_score": 1.0,
+  "domain_count": 15,
+  "violations": 0,
+  "evidence_status_counts": {
+    "analytical_classification": 1,
+    "design_constraint": 2,
+    "limited_evidence": 3,
+    "methodological_caution": 4,
+    "review_supported": 3,
+    "source_reports": 3
+  },
+  "radius_summary_by_evidence_status": {
+    "design_constraint": {
+      "mean_radius": 0.15,
+      "count": 2
+    },
+    "analytical_classification": {
+      "mean_radius": 0.2,
+      "count": 1
+    },
+    "methodological_caution": {
+      "mean_radius": 0.205,
+      "count": 4
+    },
+    "review_supported": {
+      "mean_radius": 0.323,
+      "count": 3
+    },
+    "source_reports": {
+      "mean_radius": 0.437,
+      "count": 3
+    },
+    "limited_evidence": {
+      "mean_radius": 0.55,
+      "count": 3
+    }
+  },
+  "interpretation": "The conventional review source deforms the map inward. The main center of gravity is methodological caution, review-supported effects, and bounded mechanism claims rather than speculative cosmology.",
+  "next_test": "Add a third source with intervention-level data to test whether the map can predict claim bands before full extraction."
+}
+

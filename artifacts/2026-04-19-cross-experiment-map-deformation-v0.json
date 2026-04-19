@@ -1,0 +1,38 @@
+{
+  "schema_version": "0.1.0",
+  "kind": "cross_experiment_map_deformation_summary",
+  "date": "2026-04-19",
+  "status": "public_safe_comparison_summary_not_claim_validation",
+  "experiments": [
+    {
+      "id": "001-spirit-science-consciousness-geometry",
+      "source_title": "The Great Awakening of Human Consciousness"
+    },
+    {
+      "id": "002-mindfulness-neuroscience-review",
+      "source_title": "The neuroscience of mindfulness meditation"
+    }
+  ],
+  "core_result": "The contrast source deforms the geometry inward.",
+  "radius_deltas": {
+    "speculative_unvalidated": {
+      "experiment_001": 0.886,
+      "experiment_002": null
+    },
+    "review_supported": {
+      "experiment_001": null,
+      "experiment_002": 0.323
+    },
+    "source_reports": {
+      "experiment_001": 0.534,
+      "experiment_002": 0.437
+    },
+    "limited_evidence": {
+      "experiment_001": null,
+      "experiment_002": 0.55
+    }
+  },
+  "interpretation": "When the source type changes, the map changes: the mystical-symbolic source carries outward speculative mass plus developmental motion, while the conventional review source forms an inward caution/support cluster plus a limited-evidence band.",
+  "next_test": "Add a third source with intervention-level data to test whether the map predicts claim bands before full extraction."
+}
+
