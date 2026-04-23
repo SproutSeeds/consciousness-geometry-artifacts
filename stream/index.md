@@ -37,3 +37,7 @@
   - Status: source synthesis and geometry mapping, not claim validation.
 - `artifacts/2026-04-23-sacred-geometry-cycle-synthesis-v0.json`
   - Machine-readable companion synthesis.
+- `artifacts/2026-04-23-sacred-geometry-canonical-paper-v0.1.md`
+  - Canonical public-safe paper defining sacred geometry as an evidence-boundary coordinate system.
+- `artifacts/2026-04-23-sacred-geometry-canonical-paper-v0.1.pdf`
+  - Print-ready PDF companion to the canonical paper.
