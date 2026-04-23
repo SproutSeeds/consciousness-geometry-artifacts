@@ -29,3 +29,11 @@
   - Source-specific template scorecard for Experiment 002.
 - `artifacts/2026-04-19-cross-experiment-map-deformation-v0.md`
   - Public-safe comparison of Experiment 001 and Experiment 002 map deformation.
+
+## 2026-04-23
+
+- `artifacts/2026-04-23-sacred-geometry-cycle-synthesis-v0.md`
+  - Public-safe synthesis for the Flower, Fruit, Seed, Tree cycle and Egg of Life research bridge.
+  - Status: source synthesis and geometry mapping, not claim validation.
+- `artifacts/2026-04-23-sacred-geometry-cycle-synthesis-v0.json`
+  - Machine-readable companion synthesis.

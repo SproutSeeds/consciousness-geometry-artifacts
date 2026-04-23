@@ -1,0 +1,253 @@
+{
+  "schema_version": "0.1.0",
+  "kind": "public_experiment_synthesis",
+  "date": "2026-04-23",
+  "generated_on": "2026-04-23",
+  "status": "source_synthesis_and_geometry_mapping_not_claim_validation",
+  "experiment_id": "003-sacred-geometry-pattern-cycle",
+  "source": {
+    "id": "youtube_1hBRzz1VmK0",
+    "title": "Sacred Geometry Explained Like Never Before",
+    "channel": "Spirit Science",
+    "url": "https://www.youtube.com/watch?v=1hBRzz1VmK0",
+    "user_start_url": "https://www.youtube.com/watch?v=1hBRzz1VmK0&t=305s"
+  },
+  "core_synthesis": "The source explicitly supports a Flower, Fruit, Seed, Tree cycle as a symbolic organizing grammar; the Egg of Life is tracked as a research bridge while evidence-boundary checks prevent symbolic fit from becoming claim validation.",
+  "boundary": "This artifact summarizes or maps source material. It does not validate the source claims.",
+  "source_boundary": "Findings are timestamped paraphrases from the source transcript and metadata. They do not validate the source claims.",
+  "counts": {
+    "findings": 19,
+    "mappings": 19,
+    "phase_records": 27,
+    "mapped_cycle_views": 3
+  },
+  "evidence_status_counts": {
+    "analytical_classification": 2,
+    "design_constraint": 1,
+    "methodological_caution": 2,
+    "mixed_plausibility": 1,
+    "source_reports": 12,
+    "speculative_unvalidated": 1
+  },
+  "layer_counts": {
+    "geometry_mapping": 1,
+    "interpretive_finding": 2,
+    "scientific_status": 2,
+    "source_claim": 14
+  },
+  "phase_type_counts": {
+    "boundary_form": 1,
+    "derivative_form": 4,
+    "dynamic_geometry": 1,
+    "embodiment_phase": 1,
+    "foundation_form": 3,
+    "growth_math": 3,
+    "mapping_surface": 1,
+    "practice_pattern": 4,
+    "pre_geometric_origin": 2,
+    "primary_cycle_phase": 4,
+    "tree_system": 3
+  },
+  "cycle_decision": {
+    "public_default_cycle": [
+      "flower",
+      "fruit",
+      "seed",
+      "tree",
+      "flower"
+    ],
+    "research_cycle": [
+      "seed",
+      "flower",
+      "fruit",
+      "tree",
+      "egg",
+      "seed"
+    ],
+    "status": "tracked_research_bridge",
+    "decision": "Keep the Egg of Life visible in research/development variants, but keep the public default focused on the source's flower-fruit-seed-tree cycle until contrasting sources clarify whether egg is a peer phase or an embodiment bridge.",
+    "rationale": [
+      "The source explicitly names the Egg of Life, so omitting it from research would lose signal.",
+      "The source also gives a clean four-phase fruit-tree metaphor, which is stronger for the package's public front door.",
+      "The lab can preserve both views without upgrading symbolic fit into proof."
+    ],
+    "source_orders": {
+      "map_cycle_views": {
+        "fruit_tree_metaphor": [
+          "flower",
+          "fruit",
+          "seed",
+          "tree"
+        ],
+        "geometry_development_sequence": [
+          "seed",
+          "tree",
+          "flower",
+          "fruit"
+        ],
+        "lab_working_cycle": [
+          "seed",
+          "flower",
+          "fruit",
+          "tree",
+          "egg",
+          "seed"
+        ]
+      },
+      "taxonomy_primary_cycle": {
+        "source_order_at_00_02_20": [
+          "flower",
+          "fruit",
+          "seed",
+          "tree"
+        ],
+        "development_order_at_00_08_04": [
+          "seed_of_life",
+          "tree_of_life",
+          "flower_of_life",
+          "fruit_of_life"
+        ],
+        "lab_working_order": [
+          "seed",
+          "flower",
+          "fruit",
+          "tree",
+          "egg_or_embodied_seed",
+          "seed"
+        ],
+        "interpretive_note": "The source gives more than one ordering. The lab should preserve both: the fruit-tree metaphor starts with flower, while the geometry-development sequence starts with seed."
+      }
+    }
+  },
+  "phase_highlights": [
+    {
+      "id": "p006",
+      "name": "Seed of Life / Genesis pattern",
+      "timestamp_ref": "00:06:28",
+      "phase_type": "primary_cycle_phase",
+      "evidence_status": "source_reports",
+      "summary": "The source identifies the Seed of Life with the Genesis pattern and maps successive circles to a creation sequence.",
+      "mapping_role": "Generative minimum; first complete viable form."
+    },
+    {
+      "id": "p008",
+      "name": "Tree of Life",
+      "timestamp_ref": "00:08:06",
+      "phase_type": "primary_cycle_phase",
+      "evidence_status": "source_reports",
+      "summary": "The source says the Seed of Life develops into the Tree of Life, then later devotes several chapters to Kabbalah and Tree paths.",
+      "mapping_role": "Traversal, lineage, descent, ascent, and ordered relation."
+    },
+    {
+      "id": "p009",
+      "name": "Flower of Life",
+      "timestamp_ref": "00:00:41",
+      "phase_type": "primary_cycle_phase",
+      "evidence_status": "source_reports",
+      "summary": "The source presents the Flower of Life as a broad creation pattern, a relational bloom, and a symbolic unity form across traditions.",
+      "mapping_role": "Expansion into visible relation and patterned abundance."
+    },
+    {
+      "id": "p010",
+      "name": "Egg of Life",
+      "timestamp_ref": "00:08:51",
+      "phase_type": "embodiment_phase",
+      "evidence_status": "source_reports",
+      "summary": "The source explicitly says the Flower of Life yields a fifth image called the Egg of Life and relates it to physical embodiment and early cell structure.",
+      "mapping_role": "Embodied seed; transition from symbolic cycle to biological/body analogy."
+    },
+    {
+      "id": "p011",
+      "name": "Bounded 19-circle Flower of Life",
+      "timestamp_ref": "00:09:16",
+      "phase_type": "boundary_form",
+      "evidence_status": "source_reports",
+      "summary": "The source notes the Flower of Life is often depicted with 19 circles and compares the larger boundary circles to an egg-like protective layer.",
+      "mapping_role": "Protective boundary; useful for containment and membrane metaphors."
+    },
+    {
+      "id": "p012",
+      "name": "Fruit of Life",
+      "timestamp_ref": "00:09:39",
+      "phase_type": "primary_cycle_phase",
+      "evidence_status": "source_reports",
+      "summary": "The source presents the Fruit of Life as the result or harvest form from which details of reality are said to be created.",
+      "mapping_role": "Distilled complete set; harvest from bloom."
+    },
+    {
+      "id": "p024",
+      "name": "Grid of Life Design / golden triangle",
+      "timestamp_ref": "01:57:07",
+      "phase_type": "practice_pattern",
+      "evidence_status": "source_reports",
+      "summary": "The later Robert Gilbert material describes a grid practice and a golden triangle as sacred geometry applied to human energy activation.",
+      "mapping_role": "Practice-facing geometry; keep outside proof claims."
+    },
+    {
+      "id": "p025",
+      "name": "Point in the center of the circle",
+      "timestamp_ref": "02:07:05",
+      "phase_type": "practice_pattern",
+      "evidence_status": "source_reports",
+      "summary": "The source treats the center point and surrounding circle as a dense symbolic form for creation, singularity, and manifestation.",
+      "mapping_role": "Center/periphery pulse; core practice primitive."
+    },
+    {
+      "id": "p026",
+      "name": "Cubicle cross / Cave of Brahma",
+      "timestamp_ref": "02:24:09",
+      "phase_type": "practice_pattern",
+      "evidence_status": "source_reports",
+      "summary": "The source describes a three-axis cross in the head meeting at the Cave of Brahma and links it to activation of the energy field.",
+      "mapping_role": "Embodied coordinate axes; practice geometry."
+    },
+    {
+      "id": "p027",
+      "name": "Zero-point centering and radiance",
+      "timestamp_ref": "02:29:03",
+      "phase_type": "practice_pattern",
+      "evidence_status": "source_reports",
+      "summary": "The source closes with an inward centering and outward radiance pattern, treating sacred geometry as a complete contraction-expansion practice.",
+      "mapping_role": "Breath-like movement pattern; useful for dynamic animation and research-loop metaphors."
+    }
+  ],
+  "template_summary": {
+    "winner": "radial_cycle_hybrid_v0",
+    "top_templates": [
+      {
+        "id": "radial_cycle_hybrid_v0",
+        "name": "Radial Cycle Hybrid v0",
+        "average_score": 4.567,
+        "strongest_metric": "generativity",
+        "weakest_metric": "prediction"
+      },
+      {
+        "id": "radial_evidence_field",
+        "name": "Radial Evidence Field",
+        "average_score": 4.2,
+        "strongest_metric": "discrimination",
+        "weakest_metric": "prediction"
+      },
+      {
+        "id": "phase_taxonomy_lattice_v0",
+        "name": "Phase Taxonomy Lattice v0",
+        "average_score": 4.067,
+        "strongest_metric": "generativity",
+        "weakest_metric": "prediction"
+      }
+    ],
+    "next_action": "Build a radial-cycle hybrid map for Experiment 003, then decide whether the public animation should add the Egg of Life as an embodied bridge phase."
+  },
+  "audit_summary": {
+    "result": "pass",
+    "coverage": 1,
+    "boundary_preservation_score": 1,
+    "violations_count": 0,
+    "next_action": "Use the expanded finding set to rerun the template scorecard, then test the hybrid against a contrasting source."
+  },
+  "public_next_questions": [
+    "Can a contrasting source reproduce the same flower-fruit-seed-tree order without importing this source's narrative?",
+    "Does the Egg of Life behave like a peer cycle phase, an embodiment bridge, or a derivative boundary image across sources?",
+    "Which claims move inward only when independent evidence appears, rather than when symbolic resonance feels strong?"
+  ]
+}
